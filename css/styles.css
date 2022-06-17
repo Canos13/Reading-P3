@@ -1,0 +1,21 @@
+.mediano {
+    width: 300px;
+    background: #fff !important;
+    border-radius: 5% !important;
+    padding: 1%;
+}
+
+
+.centrado{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+.espaciado{
+    margin-right: 30px !important;
+}
+
+.negro{
+    color: #000 !important;
+}
