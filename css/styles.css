@@ -1,8 +1,17 @@
 .mediano {
-    width: 300px;
-    background: #fff !important;
+    width: 200px;
+    /* background: #fff !important; */
     border-radius: 5% !important;
     padding: 1%;
+    
+    margin-right: 10% !important;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 
