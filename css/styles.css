@@ -19,3 +19,23 @@
 .negro{
     color: #000 !important;
 }
+.a{
+    padding-left: 9%!important;
+    width: 75% !important;
+    margin-left: 25% !important;
+}
+
+.with-img{
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+}
+
+.img-to{
+    width: 33% !important;
+    margin-right: 25% !important;
+}
+
+.aa{
+    font-size: 2.4rem !important;
+}
